@@ -11,7 +11,6 @@
 	<img alt="Language Top" src="https://img.shields.io/github/languages/top/joaovictornsv/menu-accordion-html-css">
 	<img alt="Languages Count" src="https://img.shields.io/github/languages/count/joaovictornsv/menu-accordion-html-css">
 	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/joaovictornsv/menu-accordion-html-css">
-	<img alt="Repo Size" src="https://img.shields.io/github/repo-size/joaovictornsv/menu-accordion-html-css">
 	 <a href="https://github.com/joaovictornsv/menu-accordion-html-css/blob/master/LICENSE">
 	    <img alt="License" src="https://img.shields.io/github/license/joaovictornsv/menu-accordion-html-css">
 	</a>
