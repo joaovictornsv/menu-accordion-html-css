@@ -1,6 +1,7 @@
 <div align="center">
     <!-- Top Title -->
 	<h1>
+		<img src="https://i.imgur.com/ldBcBDS.png" width="300px"><br/> 
 		Menu Accordion
 	</h1>
     <!-- Subtitle/Description -->
