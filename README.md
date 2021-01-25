@@ -13,7 +13,7 @@
 
 </p>
 <!-- Nav Menu -->
-<a href=#telescope-tecnologias>Technologies</a>&nbsp&nbsp|&nbsp&nbsp<a href="#memo-licença">License</a><br/><br/>
+<a href=#rocket-technologies>Technologies</a><br/><br/>
 
 <!-- Gif/Image of Example -->
 <img width="400" src="menu-accordion-gif.gif">
